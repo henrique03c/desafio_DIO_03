@@ -1,45 +1,50 @@
-# 📊 Dashboard de Vendas no Excel – Desafio DIO
+# 📊 Dashboard de Vendas no Excel
 
-## 🧠 Sobre o Projeto
+## 📝 Desafio DIO – Bootcamp Santander: Excel com Inteligência Artificial
 
-Este repositório faz parte do desafio proposto no bootcamp **Santander - Excel com Inteligência Artificial** da **DIO**.  
-O objetivo é desenvolver um **dashboard de vendas interativo no Excel**, transformando dados brutos em informações visuais claras e úteis para análise de desempenho e tomada de decisões.
+Este repositório foi criado para entregar o desafio proposto no bootcamp **Santander - Excel com Inteligência Artificial**, da **DIO**.
 
-## 📂 Arquivos
+O objetivo foi construir um **dashboard de vendas no Excel**, organizando e visualizando os dados de forma clara e eficiente. A ideia é transformar uma base de dados bruta em um painel visual que facilite a análise de desempenho e ajude na tomada de decisões.
 
-- `desafio_DIO_03.xlsx` → Arquivo principal com o dashboard desenvolvido.
-- `base.xlsx` → Base de dados original utilizada para construção.
-- `dashboard_xbox_finalizado.xlsx` → Exemplo de referência final.
+---
 
-## 🛠 Tecnologias Utilizadas
+## 📂 Arquivos incluídos
 
-- **Microsoft Excel 365**
-- Tabelas e gráficos dinâmicos
-- Segmentação de dados
-- Funções e formatações condicionais
+- `desafio_DIO_03.xlsx` → Meu dashboard final.
+- `base.xlsx` → Base de dados fornecida para o desafio.
+- `dashboard_xbox_finalizado.xlsx` → Arquivo de exemplo disponibilizado como referência.
 
-## ✅ Funcionalidades do Dashboard
+---
 
-- Visualização clara do desempenho de vendas
-- Filtros interativos
-- Indicadores-chave (KPIs)
-- Gráficos visuais com foco na tomada de decisão
+## 🔧 O que foi feito
 
-## ▶️ Como Usar
+- Importação e limpeza da base de dados;
+- Criação de tabelas e gráficos dinâmicos;
+- Montagem de um dashboard visual e funcional;
+- Aplicação de segmentações e formatações para facilitar a análise.
 
-1. Faça o download do arquivo `desafio_DIO_03.xlsx`;
-2. Abra no **Excel 365** (ou versão compatível);
-3. Navegue pela aba do **Dashboard**;
-4. Interaja com os filtros e explore as visualizações.
+---
 
-## 📌 Entrega
+## ▶️ Como visualizar
 
-Este repositório foi estruturado conforme as orientações do desafio, contendo:
+1. Baixe o arquivo `desafio_DIO_03.xlsx`;
+2. Abra com o **Microsoft Excel 365** (ou versão compatível);
+3. Acesse a aba do **Dashboard** para interagir com os filtros e gráficos.
 
-- O arquivo Excel com o dashboard finalizado;
-- Este `README.md` com as instruções e explicações do projeto.
+---
 
-## 📚 Materiais de Apoio
+## ✅ Entrega
 
-- Base de Dados: `base.xlsx`
-- Dashboard Exemplo: `dashboard_xbox_finalizado.xlsx`
+Este repositório contém:
+
+- O dashboard final em Excel;
+- A base de dados original;
+- Um `README.md` com explicações sobre o desafio e o projeto entregue.
+
+---
+
+## 🎓 Obrigado, DIO e Santander!
+
+Foi uma ótima experiência praticar a criação de dashboards e aplicar recursos de visualização no Excel com o apoio de inteligência artificial.
+
+---
