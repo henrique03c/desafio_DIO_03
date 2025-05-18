@@ -2,7 +2,7 @@
 
 ## 🧠 Sobre o Projeto
 
-Este repositório faz parte do desafio proposto no bootcamp **Heineken - Inteligência Artificial Aplicada a Dados com Copilot** da **DIO**.  
+Este repositório faz parte do desafio proposto no bootcamp **Santander - Excel com Inteligência Artificial** da **DIO**.  
 O objetivo é desenvolver um **dashboard de vendas interativo no Excel**, transformando dados brutos em informações visuais claras e úteis para análise de desempenho e tomada de decisões.
 
 ## 📂 Arquivos
